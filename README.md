@@ -1,5 +1,7 @@
 # BAYMAX (conversational companion Chatbot) 
 
+![Baymax](https://i.ibb.co/h7WPTTN/baymaxxx-removebg-preview.png)
+
 This project presents a conversational chatbot with an intuitive graphical user interface (GUI) built using PyQt5. The chatbot engages users in dynamic and friendly conversations, leveraging the powerful Hume AI  for generating contextually relevant responses.
 
 **Understanding Emotions:** Hume's eLLM goes beyond just words. It analyzes things like tone of voice, pitch, and even pauses in your speech to identify emotions. It claims to recognize a wide range, including anger, amusement, and even boredom.
