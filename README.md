@@ -24,7 +24,6 @@ This project presents a conversational chatbot with an intuitive graphical user 
 ## Requirements:
 
 - Python 3.7 or above
-- EllEvenlabs for STT
 - Hume Python SDK
 
 ## Problem Statment 
